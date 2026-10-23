@@ -1,0 +1,751 @@
+{
+ "9Z": {
+  "name": "9z Team",
+  "logo": "logos/9z.webp",
+  "color": "#FEFEFE",
+  "auto": true,
+  "colorAlt": "#070707"
+ },
+ "AG": {
+  "name": "All Gamers",
+  "logo": "logos/ag.webp",
+  "color": "#E70013",
+  "auto": true,
+  "colorAlt": "#ED0014"
+ },
+ "AG.AL": {
+  "name": "AG.AL International",
+  "logo": "logos/ag-al.webp",
+  "color": "#E6C58C",
+  "auto": true,
+  "colorAlt": "#F9E2B4"
+ },
+ "ARG": {
+  "name": "Argentina",
+  "logo": "logos/arg.webp",
+  "color": "#75ACDF",
+  "auto": true,
+  "colorAlt": "#72AADE"
+ },
+ "AUS": {
+  "name": "Australia",
+  "logo": "logos/aus.webp",
+  "color": "#02038A",
+  "auto": true,
+  "colorAlt": "#F20E0F"
+ },
+ "AUT": {
+  "name": "Austria",
+  "logo": "logos/aut.webp",
+  "color": "#C9102E",
+  "auto": true,
+  "colorAlt": "#C80E2C"
+ },
+ "BEL": {
+  "name": "Belgium",
+  "logo": "logos/bel.webp",
+  "color": "#F9D30E",
+  "auto": true,
+  "colorAlt": "#F2182F"
+ },
+ "BHR": {
+  "name": "Bahrain",
+  "logo": "logos/bhr.webp",
+  "color": "#CD1125",
+  "auto": true,
+  "colorAlt": "#E5A6AF"
+ },
+ "CAN": {
+  "name": "Canada",
+  "logo": "logos/can.webp",
+  "color": "#BF0C33",
+  "auto": true,
+  "colorAlt": "#BA082E"
+ },
+ "CB": {
+  "name": "Cheeseburger",
+  "logo": "logos/cb.webp",
+  "color": "#684623",
+  "auto": true,
+  "colorAlt": "#B77E31"
+ },
+ "CHE": {
+  "name": "Switzerland",
+  "logo": "logos/che.webp",
+  "color": "#D52A1D",
+  "auto": true,
+  "colorAlt": "#DC948A"
+ },
+ "CHL": {
+  "name": "Chile",
+  "logo": "logos/chl.webp",
+  "color": "#D52A1D",
+  "auto": true,
+  "colorAlt": "#083DA5"
+ },
+ "CHN": {
+  "name": "China",
+  "logo": "logos/chn.webp",
+  "color": "#DD290F",
+  "auto": true,
+  "colorAlt": "#FDD50C"
+ },
+ "COL": {
+  "name": "Colombia",
+  "logo": "logos/col.webp",
+  "color": "#FEE703",
+  "auto": true,
+  "colorAlt": "#D80112"
+ },
+ "CR": {
+  "name": "Crazy Raccoon",
+  "logo": "logos/cr.webp",
+  "color": "#B2151F",
+  "auto": true,
+  "colorAlt": "#190C0C"
+ },
+ "CRI": {
+  "name": "Costa Rica",
+  "logo": "logos/cri.webp",
+  "color": "#D80909",
+  "auto": true,
+  "colorAlt": "#0808B4"
+ },
+ "CZE": {
+  "name": "Czech Republic",
+  "logo": "logos/cze.webp",
+  "color": "#D6151C",
+  "auto": true,
+  "colorAlt": "#13477F"
+ },
+ "DAL": {
+  "name": "Dallas Fuel",
+  "logo": "logos/dal.webp",
+  "color": "#0073CE",
+  "auto": true,
+  "colorAlt": "#0175D4"
+ },
+ "DEU": {
+  "name": "Germany",
+  "logo": "logos/deu.webp",
+  "color": "#FECC01",
+  "auto": true,
+  "colorAlt": "#DB0101"
+ },
+ "DNK": {
+  "name": "Denmark",
+  "logo": "logos/dnk.webp",
+  "color": "#C9102E",
+  "auto": true,
+  "colorAlt": "#D6788C"
+ },
+ "E36": {
+  "name": "ENTER FORCE.36",
+  "logo": "logos/e36.webp",
+  "color": "#020202",
+  "auto": true,
+  "colorAlt": "#DADADA"
+ },
+ "ECU": {
+  "name": "Ecuador",
+  "logo": "logos/ecu.webp",
+  "color": "#FCDB04",
+  "auto": true,
+  "colorAlt": "#EA1E28"
+ },
+ "ESP": {
+  "name": "Spain",
+  "logo": "logos/esp.webp",
+  "color": "#AD1617",
+  "auto": true,
+  "colorAlt": "#F9BC04"
+ },
+ "EST": {
+  "name": "Estonia",
+  "logo": "logos/est.webp",
+  "color": "#1391FC",
+  "auto": true,
+  "colorAlt": "#FDFDFD"
+ },
+ "FLC": {
+  "name": "Team Falcons",
+  "logo": "logos/flc.webp",
+  "color": "#02BE6E",
+  "auto": true,
+  "colorAlt": "#01C06F"
+ },
+ "FRA": {
+  "name": "France",
+  "logo": "logos/fra.webp",
+  "color": "#002654",
+  "auto": true,
+  "colorAlt": "#CD1125"
+ },
+ "GBR": {
+  "name": "United Kingdom",
+  "logo": "logos/gbr.webp",
+  "color": "#C61431",
+  "auto": true,
+  "colorAlt": "#092669"
+ },
+ "GK": {
+  "name": "Geekay Esports",
+  "logo": "logos/gk.webp",
+  "color": "#243A5A",
+  "auto": true,
+  "colorAlt": "#E8E01B"
+ },
+ "GRC": {
+  "name": "Greece",
+  "logo": "logos/grc.webp",
+  "color": "#045CAE",
+  "auto": true,
+  "colorAlt": "#0355A5"
+ },
+ "GTM": {
+  "name": "Guatemala",
+  "logo": "logos/gtm.webp",
+  "color": "#4997CF",
+  "auto": true,
+  "colorAlt": "#4897D0"
+ },
+ "HND": {
+  "name": "Honduras",
+  "logo": "logos/hnd.webp",
+  "color": "#0073CE",
+  "auto": true,
+  "colorAlt": "#2483CB"
+ },
+ "IND": {
+  "name": "India",
+  "logo": "logos/ind.webp",
+  "color": "#FE9A35",
+  "auto": true,
+  "colorAlt": "#138809"
+ },
+ "IRL": {
+  "name": "Ireland",
+  "logo": "logos/irl.webp",
+  "color": "#009A49",
+  "auto": true,
+  "colorAlt": "#FE7902"
+ },
+ "ISL": {
+  "name": "Iceland",
+  "logo": "logos/isl.webp",
+  "color": "#003796",
+  "auto": true,
+  "colorAlt": "#D53D3E"
+ },
+ "ISR": {
+  "name": "Israel",
+  "logo": "logos/isr.webp",
+  "color": "#0303C6",
+  "auto": true,
+  "colorAlt": "#5E5DD1"
+ },
+ "ITA": {
+  "name": "Italy",
+  "logo": "logos/ita.webp",
+  "color": "#009346",
+  "auto": true,
+  "colorAlt": "#CE2B37"
+ },
+ "JDG": {
+  "name": "JD Gaming",
+  "logo": "logos/jdg.webp",
+  "color": "#C9102E",
+  "auto": true,
+  "colorAlt": "#CB102E"
+ },
+ "JPN": {
+  "name": "Japan",
+  "logo": "logos/jpn.webp",
+  "color": "#D20303",
+  "auto": true,
+  "colorAlt": "#E1898A"
+ },
+ "KOR": {
+  "name": "South Korea",
+  "logo": "logos/kor.webp",
+  "color": "#1A355C",
+  "auto": true,
+  "colorAlt": "#C8323F"
+ },
+ "LVA": {
+  "name": "Latvia",
+  "logo": "logos/lva.webp",
+  "color": "#971E33",
+  "auto": true,
+  "colorAlt": "#981D33"
+ },
+ "MEX": {
+  "name": "Mexico",
+  "logo": "logos/mex.webp",
+  "color": "#CA1325",
+  "auto": true,
+  "colorAlt": "#016646"
+ },
+ "MYS": {
+  "name": "Malaysia",
+  "logo": "logos/mys.webp",
+  "color": "#C20B0E",
+  "auto": true,
+  "colorAlt": "#08055F"
+ },
+ "NE": {
+  "name": "New Era",
+  "logo": "logos/ne.webp",
+  "color": "#FFFFFF",
+  "auto": true,
+  "colorAlt": "#FBFBFB"
+ },
+ "NLD": {
+  "name": "Netherlands",
+  "logo": "logos/nld.webp",
+  "color": "#22468B",
+  "auto": true,
+  "colorAlt": "#AE1D2A"
+ },
+ "NZL": {
+  "name": "New Zealand",
+  "logo": "logos/nzl.webp",
+  "color": "#03257B",
+  "auto": true,
+  "colorAlt": "#C01633"
+ },
+ "O2B": {
+  "name": "O2 Blast",
+  "logo": "logos/o2b.webp",
+  "color": "#FFFFFF",
+  "auto": true
+ },
+ "OSG": {
+  "name": "ONSIDE GAMING",
+  "logo": "logos/osg.webp",
+  "color": "#FFFFFF",
+  "auto": true
+ },
+ "PAK": {
+  "name": "Pakistan",
+  "logo": "logos/pak.webp",
+  "color": "#0C590B",
+  "auto": true,
+  "colorAlt": "#075406"
+ },
+ "PAN": {
+  "name": "Panama",
+  "logo": "logos/pan.webp",
+  "color": "#092558",
+  "auto": true,
+  "colorAlt": "#D9151D"
+ },
+ "PER": {
+  "name": "Peru",
+  "logo": "logos/per.webp",
+  "color": "#D81122",
+  "auto": true,
+  "colorAlt": "#82B06D"
+ },
+ "PF": {
+  "name": "Poker Face",
+  "logo": "logos/pf.webp",
+  "color": "#4F2064",
+  "auto": true,
+  "colorAlt": "#FFFFFF"
+ },
+ "PHL": {
+  "name": "Philippines",
+  "logo": "logos/phl.webp",
+  "color": "#023AA8",
+  "auto": true,
+  "colorAlt": "#CC1226"
+ },
+ "PNHB": {
+  "name": "Please Not Hero Ban",
+  "logo": "logos/pnhb.webp",
+  "color": "#B41205",
+  "auto": true,
+  "colorAlt": "#CA7E30"
+ },
+ "POL": {
+  "name": "Poland",
+  "logo": "logos/pol.webp",
+  "color": "#DB143D",
+  "auto": true,
+  "colorAlt": "#D91038"
+ },
+ "PRI": {
+  "name": "Puerto Rico",
+  "logo": "logos/pri.webp",
+  "color": "#EB0001",
+  "auto": true,
+  "colorAlt": "#0752EC"
+ },
+ "PRT": {
+  "name": "Portugal",
+  "logo": "logos/prt.webp",
+  "color": "#FD0301",
+  "auto": true,
+  "colorAlt": "#056501"
+ },
+ "SAU": {
+  "name": "Saudi Arabia",
+  "logo": "logos/sau.webp",
+  "color": "#1A9E02",
+  "auto": true,
+  "colorAlt": "#92D086"
+ },
+ "SBAD": {
+  "name": "SuperBad",
+  "logo": "logos/sbad.webp",
+  "color": "#FE7C05",
+  "auto": true,
+  "colorAlt": "#FE8209"
+ },
+ "SEC": {
+  "name": "Team Secret",
+  "logo": "logos/sec.webp",
+  "color": "#FFFFFF",
+  "auto": true
+ },
+ "SEJ": {
+  "name": "SEIJI ESPORTS",
+  "logo": "logos/sej.webp",
+  "color": "#CFE9F0",
+  "auto": true,
+  "colorAlt": "#E7F5F6"
+ },
+ "SGP": {
+  "name": "Singapore",
+  "logo": "logos/sgp.webp",
+  "color": "#DE0101",
+  "auto": true,
+  "colorAlt": "#D93332"
+ },
+ "SSG": {
+  "name": "Spacestation Gaming",
+  "logo": "logos/ssg.webp",
+  "color": "#F2B425",
+  "auto": true,
+  "colorAlt": "#A37C28"
+ },
+ "SWE": {
+  "name": "Sweden",
+  "logo": "logos/swe.webp",
+  "color": "#005294",
+  "auto": true,
+  "colorAlt": "#F6C908"
+ },
+ "T1": {
+  "name": "T1",
+  "logo": "logos/t1.webp",
+  "color": "#E2012D",
+  "auto": true,
+  "colorAlt": "#E4012C"
+ },
+ "TGG": {
+  "name": "The Gatos Guapos",
+  "logo": "logos/tgg.webp",
+  "color": "#ED9B2D",
+  "auto": true,
+  "colorAlt": "#4DAE92"
+ },
+ "THA": {
+  "name": "Thailand",
+  "logo": "logos/tha.webp",
+  "color": "#302D4D",
+  "auto": true,
+  "colorAlt": "#A51A33"
+ },
+ "TL": {
+  "name": "Team Liquid",
+  "logo": "logos/tl.webp",
+  "color": "#ECEDED",
+  "auto": true,
+  "colorAlt": "#07183A"
+ },
+ "TM": {
+  "name": "Twisted Minds",
+  "logo": "logos/tm.webp",
+  "color": "#F74E6B",
+  "auto": true,
+  "colorAlt": "#B33F53"
+ },
+ "TUR": {
+  "name": "Turkey",
+  "logo": "logos/tur.webp",
+  "color": "#E40A16",
+  "auto": true,
+  "colorAlt": "#DF4952"
+ },
+ "USA": {
+  "name": "United States",
+  "logo": "logos/usa.webp",
+  "color": "#BA3F46",
+  "auto": true,
+  "colorAlt": "#253863"
+ },
+ "VL": {
+  "name": "VARREL",
+  "logo": "logos/vl.webp",
+  "color": "#BBA277",
+  "auto": true,
+  "colorAlt": "#B8A075"
+ },
+ "VP": {
+  "name": "Virtus.pro",
+  "logo": "logos/vp.webp",
+  "color": "#EE5108",
+  "auto": true,
+  "colorAlt": "#F9FAFA"
+ },
+ "WBG": {
+  "name": "Weibo Gaming",
+  "logo": "logos/wbg.webp",
+  "color": "#E60214",
+  "auto": true,
+  "colorAlt": "#EA9219"
+ },
+ "ZAF": {
+  "name": "South Africa",
+  "logo": "logos/zaf.webp",
+  "color": "#0C9834",
+  "auto": true,
+  "colorAlt": "#02028B"
+ },
+ "ZAN": {
+  "name": "ZAN Esports",
+  "logo": "logos/zan.webp",
+  "color": "#FFFFFF",
+  "auto": true,
+  "colorAlt": "#848594"
+ },
+ "ZETA": {
+  "name": "ZETA DIVISION",
+  "logo": "logos/zeta.webp",
+  "color": "#FFFFFF",
+  "auto": true,
+  "logoScale": 0.85
+ },
+ "ZSG": {
+  "name": "ZANSIDE GAMING",
+  "logo": "logos/zsg.webp",
+  "color": "#FFFFFF",
+  "auto": true
+ },
+ "1234": {
+  "name": "1234",
+  "logo": "logos/1234.webp",
+  "auto": true,
+  "color": "#EE6616",
+  "colorAlt": "#EA6618"
+ },
+ "4AM": {
+  "name": "Four Angry Men",
+  "logo": "logos/4am.webp",
+  "auto": true,
+  "color": "#FFFFFF"
+ },
+ "99D": {
+  "name": "99DIVINE",
+  "logo": "logos/99d.webp",
+  "auto": true,
+  "color": "#F2D88E",
+  "colorAlt": "#FFFFFF"
+ },
+ "AL": {
+  "name": "Anyone's Legend",
+  "logo": "logos/al.webp",
+  "auto": true,
+  "color": "#FFFFFF"
+ },
+ "BF": {
+  "name": "Black Flag",
+  "logo": "logos/bf.webp",
+  "auto": true,
+  "color": "#90746A",
+  "colorAlt": "#0D0C1F"
+ },
+ "DEG": {
+  "name": "DEG",
+  "logo": "logos/deg.webp",
+  "auto": true,
+  "color": "#FFFFFF",
+  "colorAlt": "#F7F7F7"
+ },
+ "DSG": {
+  "name": "Disguised",
+  "logo": "logos/dsg.webp",
+  "auto": true,
+  "color": "#F6B24F",
+  "colorAlt": "#FAB452"
+ },
+ "EXN": {
+  "name": "Extinction",
+  "logo": "logos/exn.webp",
+  "auto": true,
+  "color": "#C38649",
+  "colorAlt": "#BF8245"
+ },
+ "HE": {
+  "name": "Homie E",
+  "logo": "logos/he.webp",
+  "auto": true,
+  "color": "#63282B",
+  "colorAlt": "#994F53"
+ },
+ "HNG": {
+  "name": "HUNENG Gaming",
+  "logo": "logos/hng.webp",
+  "auto": true,
+  "color": "#FBFBFC",
+  "colorAlt": "#F4F5F6"
+ },
+ "KAFE": {
+  "name": "The Kafe",
+  "logo": "logos/kafe.webp",
+  "auto": true,
+  "color": "#4FA3F3",
+  "colorAlt": "#77B5EC"
+ },
+ "KK": {
+  "name": "Kitsune Kage",
+  "logo": "logos/kk.webp",
+  "auto": true,
+  "color": "#E27A26",
+  "colorAlt": "#1D1816"
+ },
+ "LAZ": {
+  "name": "Lazuli",
+  "logo": "logos/laz.webp",
+  "auto": true,
+  "color": "#4A00FF",
+  "colorAlt": "#4C00FE"
+ },
+ "LUNEX": {
+  "name": "LuneX Gaming",
+  "logo": "logos/lunex.webp",
+  "auto": true,
+  "color": "#D2BCFD",
+  "colorAlt": "#FCFBFE"
+ },
+ "MRG": {
+  "name": "MURASH GAMING",
+  "logo": "logos/mrg.webp",
+  "auto": true,
+  "color": "#FBFFFF",
+  "colorAlt": "#FEFFFF"
+ },
+ "MT": {
+  "name": "Milk Tea",
+  "logo": "logos/mt.webp",
+  "auto": true,
+  "color": "#DEC09D",
+  "colorAlt": "#563E33"
+ },
+ "NG": {
+  "name": "Nyam Gaming",
+  "logo": "logos/ng.webp",
+  "auto": true,
+  "color": "#FFFFFF",
+  "colorAlt": "#F9F9F9"
+ },
+ "NP": {
+  "name": "Naive Piggy",
+  "logo": "logos/np.webp",
+  "auto": true,
+  "color": "#FDEEEF",
+  "colorAlt": "#EFC9D1"
+ },
+ "NTMR": {
+  "name": "NTMR",
+  "logo": "logos/ntmr.webp",
+  "auto": true,
+  "color": "#443191",
+  "colorAlt": "#943FDC"
+ },
+ "OUG": {
+  "name": "OU Gaming",
+  "logo": "logos/oug.webp",
+  "auto": true,
+  "color": "#295BD0",
+  "colorAlt": "#E32C1D"
+ },
+ "PEPS": {
+  "name": "Team Peps",
+  "logo": "logos/peps.webp",
+  "auto": true,
+  "color": "#EFCE4A",
+  "colorAlt": "#B35B26"
+ },
+ "QAD": {
+  "name": "Al Qadsiah",
+  "logo": "logos/qad.webp",
+  "auto": true,
+  "color": "#ED0100",
+  "colorAlt": "#F60001"
+ },
+ "REV": {
+  "name": "REVATI",
+  "logo": "logos/rev.webp",
+  "auto": true,
+  "color": "#FFFFFF"
+ },
+ "RISK": {
+  "name": "Team Risk",
+  "logo": "logos/risk.webp",
+  "auto": true,
+  "color": "#EE6616",
+  "colorAlt": "#EA6618"
+ },
+ "RTZ": {
+  "name": "ReturnZ",
+  "logo": "logos/rtz.webp",
+  "auto": true,
+  "color": "#4541BA",
+  "colorAlt": "#63BEE4"
+ },
+ "SSE": {
+  "name": "SHENGSHI Esports",
+  "logo": "logos/sse.webp",
+  "auto": true,
+  "color": "#7E0101",
+  "colorAlt": "#C60102"
+ },
+ "SV": {
+  "name": "Solus Victorem",
+  "logo": "logos/sv.webp",
+  "auto": true,
+  "color": "#9982C4",
+  "colorAlt": "#050506"
+ },
+ "TLC": {
+  "name": "Telacy",
+  "logo": "logos/tlc.webp",
+  "auto": true,
+  "color": "#8148E9",
+  "colorAlt": "#582BC5"
+ },
+ "TLM": {
+  "name": "Telomere",
+  "logo": "logos/tlm.webp",
+  "auto": true,
+  "color": "#230D51",
+  "colorAlt": "#11B4EC"
+ },
+ "TOTA": {
+  "name": "Tokyo Ta1yo's",
+  "logo": "logos/tota.webp",
+  "auto": true,
+  "color": "#99D7DC",
+  "colorAlt": "#060707"
+ },
+ "UW": {
+  "name": "Uwinks",
+  "logo": "logos/uw.webp",
+  "auto": true,
+  "color": "#43E2FE",
+  "colorAlt": "#35A0FE"
+ }
+}
