@@ -1,0 +1,83 @@
+# 공개 데이터 저장소(OWCScalender-data)에서 도는 실시간 점수 감시.
+# (원본은 비공개 저장소의 data-repo/ 폴더. 고치면 공개 저장소에도 같이 올린다)
+#
+# 20분마다 깨어나서 진행 중인 경기가 있으면 경기가 끝날 때까지 5분마다 그 대회 페이지만 다시 받아
+# live.json(점수)을 올린다. 진행 중인 경기가 없으면 몇 초 만에 끝난다.
+# 공개 저장소라 Actions 시간이 무료라서 이렇게 자주 돌릴 수 있다.
+# 수집 코드는 비공개 저장소에서 읽기 전용 토큰(CODE_REPO_TOKEN)으로 가져와 실행한다 (코드는 공개되지 않음).
+name: live scores
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live
+  cancel-in-progress: false
+
+env:
+  CODE_TOKEN: ${{ secrets.CODE_REPO_TOKEN }}
+  GIT_AUTHOR_NAME: wkwosdifh
+  GIT_AUTHOR_EMAIL: 347000319+wkwosdifh@users.noreply.github.com
+  GIT_COMMITTER_NAME: wkwosdifh
+  GIT_COMMITTER_EMAIL: 347000319+wkwosdifh@users.noreply.github.com
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: 토큰 확인
+        if: env.CODE_TOKEN == ''
+        run: echo "CODE_REPO_TOKEN 시크릿이 없어서 실시간 점수 감시를 건너뛰어요"
+
+      - if: env.CODE_TOKEN != ''
+        uses: actions/checkout@v4
+
+      - if: env.CODE_TOKEN != ''
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/OWCScalender
+          token: ${{ secrets.CODE_REPO_TOKEN }}
+          path: code
+          sparse-checkout: collector
+
+      - if: env.CODE_TOKEN != ''
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - if: env.CODE_TOKEN != ''
+        run: pip install -q -r code/collector/requirements.txt
+
+      - name: 경기 중 점수 감시 (5분마다, 최대 5시간 반)
+        if: env.CODE_TOKEN != ''
+        env:
+          LIQUIPEDIA_CONTACT: ${{ vars.LIQUIPEDIA_CONTACT }}
+        run: |
+          end=$((SECONDS + 330 * 60))
+          while [ $SECONDS -lt $end ]; do
+            git pull -q --rebase origin main || true
+            set +e
+            (cd code/collector && python live.py --data "$GITHUB_WORKSPACE")
+            code=$?
+            set -e
+            if [ -n "$(git status --porcelain live.json)" ]; then
+              git add live.json
+              git commit -q -m "실시간 점수 $(TZ=Asia/Seoul date '+%H:%M') KST"
+              pushed=false
+              for i in 1 2 3; do
+                if git pull -q --rebase origin main && git push -q; then pushed=true; break; fi
+                git rebase --abort 2>/dev/null || true
+                sleep 5
+              done
+              [ "$pushed" = true ] || echo "::warning::실시간 점수를 올리지 못했어요"
+            fi
+            if [ $code -eq 10 ]; then echo "감시할 경기가 없어서 끝냄"; break; fi
+            if [ $code -ne 0 ]; then exit $code; fi
+            sleep 300
+          done
