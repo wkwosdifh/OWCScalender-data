@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-25T08:33:13Z",
- "nextUpdateUtc": "2026-10-25T10:30:00Z",
+ "updatedAt": "2026-10-25T10:31:41Z",
+ "nextUpdateUtc": "2026-10-25T11:30:00Z",
  "events": [
   {
    "name": "OWCS World Finals",
@@ -1850,24 +1850,19 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-korea-stage-3-202610250800-o2b-t1",
+   "id": "owcs-korea-stage-3-202610250830-o2b-t1",
    "category": "korea",
    "event": "OWCS Korea Stage 3",
    "phase": "Week 4",
    "format": "FT3",
-   "startUtc": "2026-10-25T08:00:00Z",
+   "startUtc": "2026-10-25T08:30:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "finished",
    "teamA": "O2B",
    "teamB": "T1",
-   "scoreA": null,
-   "scoreB": null,
-   "streams": [
-    {
-     "type": "soop",
-     "url": "https://play.sooplive.co.kr/owesports"
-    }
-   ],
+   "scoreA": 0,
+   "scoreB": 3,
+   "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/Asia/Stage_3/Korea/Regular_Season",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -1889,18 +1884,18 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%B0%A8%EC%9D%B4%EB%82%98%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-korea-stage-3-202610250900-zeta-cr",
+   "id": "owcs-korea-stage-3-202610251010-zeta-cr",
    "category": "korea",
    "event": "OWCS Korea Stage 3",
    "phase": "Week 4",
    "format": "FT3",
-   "startUtc": "2026-10-25T09:00:00Z",
+   "startUtc": "2026-10-25T10:10:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "live",
    "teamA": "ZETA",
    "teamB": "CR",
-   "scoreA": null,
-   "scoreB": null,
+   "scoreA": 1,
+   "scoreB": 0,
    "streams": [
     {
      "type": "soop",
