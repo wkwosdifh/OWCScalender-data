@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-30T11:41:59Z",
- "nextUpdateUtc": "2026-10-30T13:20:00Z",
+ "updatedAt": "2026-10-30T14:00:34Z",
+ "nextUpdateUtc": "2026-10-30T19:30:00Z",
  "events": [
   {
    "name": "OWCS World Finals",
@@ -1942,17 +1942,12 @@
    "format": "FT3",
    "startUtc": "2026-10-30T10:50:00Z",
    "timeTbd": false,
-   "status": "live",
+   "status": "finished",
    "teamA": "CR",
    "teamB": "T1",
-   "scoreA": 1,
+   "scoreA": 3,
    "scoreB": 1,
-   "streams": [
-    {
-     "type": "soop",
-     "url": "https://play.sooplive.co.kr/owesports"
-    }
-   ],
+   "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/Asia/Stage_3/Korea",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
