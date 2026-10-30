@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-30T14:00:34Z",
- "nextUpdateUtc": "2026-10-30T19:30:00Z",
+ "updatedAt": "2026-10-30T20:41:22Z",
+ "nextUpdateUtc": "2026-10-30T22:20:00Z",
  "events": [
   {
    "name": "OWCS World Finals",
@@ -1952,53 +1952,62 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-emea-stage-3-202610301700-tm-risk",
+   "id": "owcs-emea-stage-3-202610301705-tm-risk",
    "category": "emea",
    "event": "OWCS EMEA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-10-30T17:00:00Z",
+   "startUtc": "2026-10-30T17:05:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "finished",
    "teamA": "TM",
    "teamB": "RISK",
-   "scoreA": null,
-   "scoreB": null,
+   "scoreA": 3,
+   "scoreB": 0,
    "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-emea-stage-3-202610301830-peps-1234",
+   "id": "owcs-emea-stage-3-202610301810-peps-1234",
    "category": "emea",
    "event": "OWCS EMEA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-10-30T18:30:00Z",
+   "startUtc": "2026-10-30T18:10:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "finished",
    "teamA": "PEPS",
    "teamB": "1234",
-   "scoreA": null,
-   "scoreB": null,
+   "scoreA": 3,
+   "scoreB": 1,
    "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202610302000-tl-kafe",
+   "id": "owcs-na-stage-3-202610301950-tl-kafe",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-10-30T20:00:00Z",
+   "startUtc": "2026-10-30T19:50:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "live",
    "teamA": "TL",
    "teamB": "KAFE",
-   "scoreA": null,
-   "scoreB": null,
-   "streams": [],
+   "scoreA": 1,
+   "scoreB": 1,
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2015,7 +2024,16 @@
    "teamB": "SSG",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2137,7 +2155,7 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%B0%A8%EC%9D%B4%EB%82%98%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-emea-stage-3-202610311700-tbd-tbd",
+   "id": "owcs-emea-stage-3-202610311700-risk-1234",
    "category": "emea",
    "event": "OWCS EMEA Stage 3",
    "phase": "Regional Playoffs",
@@ -2145,16 +2163,25 @@
    "startUtc": "2026-10-31T17:00:00Z",
    "timeTbd": false,
    "status": "upcoming",
-   "teamA": "TBD",
-   "teamB": "TBD",
+   "teamA": "RISK",
+   "teamB": "1234",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-emea-stage-3-202610311830-tbd-tbd",
+   "id": "owcs-emea-stage-3-202610311830-tm-peps",
    "category": "emea",
    "event": "OWCS EMEA Stage 3",
    "phase": "Regional Playoffs",
@@ -2162,11 +2189,20 @@
    "startUtc": "2026-10-31T18:30:00Z",
    "timeTbd": false,
    "status": "upcoming",
-   "teamA": "TBD",
-   "teamB": "TBD",
+   "teamA": "TM",
+   "teamB": "PEPS",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2183,7 +2219,16 @@
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2200,7 +2245,16 @@
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2317,7 +2371,16 @@
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2334,7 +2397,16 @@
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2351,7 +2423,16 @@
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2368,7 +2449,16 @@
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
-   "streams": [],
+   "streams": [
+    {
+     "type": "twitch",
+     "url": "https://www.twitch.tv/Overwatch_Esports"
+    },
+    {
+     "type": "youtube",
+     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
+    }
+   ],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
