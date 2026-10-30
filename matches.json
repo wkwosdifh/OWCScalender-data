@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-30T20:41:22Z",
- "nextUpdateUtc": "2026-10-30T22:20:00Z",
+ "updatedAt": "2026-10-30T22:40:27Z",
+ "nextUpdateUtc": "2026-10-31T08:30:00Z",
  "events": [
   {
    "name": "OWCS World Finals",
@@ -1993,47 +1993,29 @@
    "format": "FT3",
    "startUtc": "2026-10-30T19:50:00Z",
    "timeTbd": false,
-   "status": "live",
+   "status": "finished",
    "teamA": "TL",
    "teamB": "KAFE",
-   "scoreA": 1,
+   "scoreA": 3,
    "scoreB": 1,
-   "streams": [
-    {
-     "type": "twitch",
-     "url": "https://www.twitch.tv/Overwatch_Esports"
-    },
-    {
-     "type": "youtube",
-     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
-    }
-   ],
+   "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202610302130-dal-ssg",
+   "id": "owcs-na-stage-3-202610302120-dal-ssg",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-10-30T21:30:00Z",
+   "startUtc": "2026-10-30T21:20:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "finished",
    "teamA": "DAL",
    "teamB": "SSG",
-   "scoreA": null,
-   "scoreB": null,
-   "streams": [
-    {
-     "type": "twitch",
-     "url": "https://www.twitch.tv/Overwatch_Esports"
-    },
-    {
-     "type": "youtube",
-     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
-    }
-   ],
+   "scoreA": 3,
+   "scoreB": 0,
+   "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/NA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2207,7 +2189,7 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202610312000-tbd-tbd",
+   "id": "owcs-na-stage-3-202610312000-kafe-ssg",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
@@ -2215,8 +2197,8 @@
    "startUtc": "2026-10-31T20:00:00Z",
    "timeTbd": false,
    "status": "upcoming",
-   "teamA": "TBD",
-   "teamB": "TBD",
+   "teamA": "KAFE",
+   "teamB": "SSG",
    "scoreA": null,
    "scoreB": null,
    "streams": [
@@ -2233,7 +2215,7 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202610312130-tbd-tbd",
+   "id": "owcs-na-stage-3-202610312130-tl-dal",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
@@ -2241,8 +2223,8 @@
    "startUtc": "2026-10-31T21:30:00Z",
    "timeTbd": false,
    "status": "upcoming",
-   "teamA": "TBD",
-   "teamB": "TBD",
+   "teamA": "TL",
+   "teamB": "DAL",
    "scoreA": null,
    "scoreB": null,
    "streams": [
