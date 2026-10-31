@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-31T16:38:39Z",
- "nextUpdateUtc": "2026-10-31T19:30:00Z",
+ "updatedAt": "2026-10-31T20:37:26Z",
+ "nextUpdateUtc": "2026-10-31T21:00:00Z",
  "events": [
   {
    "name": "OWCS World Finals",
@@ -2122,28 +2122,19 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%B0%A8%EC%9D%B4%EB%82%98%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-emea-stage-3-202610311700-risk-1234",
+   "id": "owcs-emea-stage-3-202610311705-risk-1234",
    "category": "emea",
    "event": "OWCS EMEA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-10-31T17:00:00Z",
+   "startUtc": "2026-10-31T17:05:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "finished",
    "teamA": "RISK",
    "teamB": "1234",
-   "scoreA": null,
-   "scoreB": null,
-   "streams": [
-    {
-     "type": "twitch",
-     "url": "https://www.twitch.tv/Overwatch_Esports"
-    },
-    {
-     "type": "youtube",
-     "url": "https://liquipedia.net/overwatch/Special:Stream/youtube/overwatchleague"
-    }
-   ],
+   "scoreA": 0,
+   "scoreB": 3,
+   "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
@@ -2155,11 +2146,11 @@
    "format": "FT3",
    "startUtc": "2026-10-31T18:30:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "live",
    "teamA": "TM",
    "teamB": "PEPS",
-   "scoreA": null,
-   "scoreB": null,
+   "scoreA": 2,
+   "scoreB": 2,
    "streams": [
     {
      "type": "twitch",
@@ -2174,12 +2165,12 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202610312000-kafe-ssg",
+   "id": "owcs-na-stage-3-202610312050-kafe-ssg",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-10-31T20:00:00Z",
+   "startUtc": "2026-10-31T20:50:00Z",
    "timeTbd": false,
    "status": "upcoming",
    "teamA": "KAFE",
@@ -2200,12 +2191,12 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202610312130-tl-dal",
+   "id": "owcs-na-stage-3-202610312220-tl-dal",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-10-31T21:30:00Z",
+   "startUtc": "2026-10-31T22:20:00Z",
    "timeTbd": false,
    "status": "upcoming",
    "teamA": "TL",
@@ -2326,16 +2317,16 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%B0%A8%EC%9D%B4%EB%82%98%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-emea-stage-3-202611011700-tbd-tbd",
+   "id": "owcs-emea-stage-3-202611011800-tbd-1234",
    "category": "emea",
    "event": "OWCS EMEA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-11-01T17:00:00Z",
+   "startUtc": "2026-11-01T18:00:00Z",
    "timeTbd": false,
    "status": "upcoming",
    "teamA": "TBD",
-   "teamB": "TBD",
+   "teamB": "1234",
    "scoreA": null,
    "scoreB": null,
    "streams": [
@@ -2352,12 +2343,12 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-emea-stage-3-202611011830-tbd-tbd",
+   "id": "owcs-emea-stage-3-202611011930-tbd-tbd",
    "category": "emea",
    "event": "OWCS EMEA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT4",
-   "startUtc": "2026-11-01T18:30:00Z",
+   "startUtc": "2026-11-01T19:30:00Z",
    "timeTbd": false,
    "status": "upcoming",
    "teamA": "TBD",
@@ -2378,12 +2369,12 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202611012030-tbd-tbd",
+   "id": "owcs-na-stage-3-202611012100-tbd-tbd",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT3",
-   "startUtc": "2026-11-01T20:30:00Z",
+   "startUtc": "2026-11-01T21:00:00Z",
    "timeTbd": false,
    "status": "upcoming",
    "teamA": "TBD",
@@ -2404,12 +2395,12 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20NA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-na-stage-3-202611012200-tbd-tbd",
+   "id": "owcs-na-stage-3-202611012230-tbd-tbd",
    "category": "na",
    "event": "OWCS NA Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT4",
-   "startUtc": "2026-11-01T22:00:00Z",
+   "startUtc": "2026-11-01T22:30:00Z",
    "timeTbd": false,
    "status": "upcoming",
    "teamA": "TBD",
