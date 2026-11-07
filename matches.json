@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-06T14:19:36Z",
- "nextUpdateUtc": "2026-11-07T09:30:00Z",
+ "updatedAt": "2026-11-07T09:47:31Z",
+ "nextUpdateUtc": "2026-11-07T11:30:00Z",
  "events": [
   {
    "name": "OWCS World Finals",
@@ -1986,40 +1986,35 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-korea-stage-3-202611070600-zeta-flc",
+   "id": "owcs-korea-stage-3-202611070615-zeta-flc",
    "category": "korea",
    "event": "OWCS Korea Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT4",
-   "startUtc": "2026-11-07T06:00:00Z",
+   "startUtc": "2026-11-07T06:15:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "finished",
    "teamA": "ZETA",
    "teamB": "FLC",
-   "scoreA": null,
-   "scoreB": null,
-   "streams": [
-    {
-     "type": "soop",
-     "url": "https://play.sooplive.co.kr/owesports"
-    }
-   ],
+   "scoreA": 4,
+   "scoreB": 1,
+   "streams": [],
    "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/Asia/Stage_3/Korea",
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-korea-stage-3-202611070800-cr-t1",
+   "id": "owcs-korea-stage-3-202611070825-cr-t1",
    "category": "korea",
    "event": "OWCS Korea Stage 3",
    "phase": "Regional Playoffs",
    "format": "FT4",
-   "startUtc": "2026-11-07T08:00:00Z",
+   "startUtc": "2026-11-07T08:25:00Z",
    "timeTbd": false,
-   "status": "upcoming",
+   "status": "live",
    "teamA": "CR",
    "teamB": "T1",
-   "scoreA": null,
-   "scoreB": null,
+   "scoreA": 1,
+   "scoreB": 1,
    "streams": [
     {
      "type": "soop",
@@ -2081,7 +2076,7 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%B0%A8%EC%9D%B4%EB%82%98%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-korea-stage-3-202611080600-tbd-tbd",
+   "id": "owcs-korea-stage-3-202611080600-flc-tbd",
    "category": "korea",
    "event": "OWCS Korea Stage 3",
    "phase": "Regional Playoffs",
@@ -2089,7 +2084,7 @@
    "startUtc": "2026-11-08T06:00:00Z",
    "timeTbd": false,
    "status": "upcoming",
-   "teamA": "TBD",
+   "teamA": "FLC",
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
@@ -2103,7 +2098,7 @@
    "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
   },
   {
-   "id": "owcs-korea-stage-3-202611080800-tbd-tbd",
+   "id": "owcs-korea-stage-3-202611080800-zeta-tbd",
    "category": "korea",
    "event": "OWCS Korea Stage 3",
    "phase": "Regional Playoffs",
@@ -2111,7 +2106,7 @@
    "startUtc": "2026-11-08T08:00:00Z",
    "timeTbd": false,
    "status": "upcoming",
-   "teamA": "TBD",
+   "teamA": "ZETA",
    "teamB": "TBD",
    "scoreA": null,
    "scoreB": null,
