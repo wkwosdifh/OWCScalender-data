@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T17:50:22Z",
+ "updatedAt": "2026-11-10T19:54:19Z",
  "nextUpdateUtc": "2026-11-11T10:30:00Z",
  "events": [
   {
@@ -13,23 +13,6 @@
   }
  ],
  "matches": [
-  {
-   "id": "owcs-emea-stage-3-202610111905-1234-risk",
-   "category": "emea",
-   "event": "OWCS EMEA Stage 3",
-   "phase": "Week 1",
-   "format": "FT3",
-   "startUtc": "2026-10-11T19:05:00Z",
-   "timeTbd": false,
-   "status": "finished",
-   "teamA": "1234",
-   "teamB": "RISK",
-   "scoreA": 0,
-   "scoreB": 3,
-   "streams": [],
-   "sourceUrl": "https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/EMEA/Stage_3/Regular_Season",
-   "namuUrl": "https://namu.wiki/w/2026%20%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20EMEA%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203"
-  },
   {
    "id": "owcs-emea-stage-3-202610112015-vp-peps",
    "category": "emea",
