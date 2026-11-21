@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T12:56:02Z",
- "nextUpdateUtc": "2026-11-22T11:00:00Z",
+ "updatedAt": "2026-11-21T20:43:58Z",
+ "nextUpdateUtc": "2026-11-22T12:00:00Z",
  "events": [
   {
    "name": "OWCS World Finals",
@@ -1378,7 +1378,7 @@
    "category": "intl",
    "event": "OWCS Asia Stage 3",
    "phase": "Main Bracket",
-   "format": "FT3",
+   "format": "FT4",
    "startUtc": "2026-11-22T08:30:00Z",
    "timeTbd": false,
    "status": "upcoming",
