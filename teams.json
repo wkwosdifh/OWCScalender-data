@@ -747,5 +747,11 @@
   "auto": true,
   "color": "#43E2FE",
   "colorAlt": "#35A0FE"
+ },
+ "TSM": {
+  "name": "TSM",
+  "logo": "logos/tsm.webp",
+  "auto": true,
+  "color": "#FFFFFF"
  }
 }
